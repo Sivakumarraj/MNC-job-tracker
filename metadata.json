@@ -1,0 +1,6 @@
+{
+  "name": "India MNC Job Scanner",
+  "description": "Gathers job listings & career links from top 25 MNCs in India with 5-min auto scanner, local notifications, Room database, and Gemini AI resume matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
